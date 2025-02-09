@@ -42,5 +42,4 @@ Jarvis AI is a Python-based voice assistant that can recognize voice commands an
 
 --"Shutdown"
 
-# Feel free to improve the project by adding more commands and functionalities! 🚀
-
+**Feel free to improve the project by adding more commands and functionalities! 🚀**
